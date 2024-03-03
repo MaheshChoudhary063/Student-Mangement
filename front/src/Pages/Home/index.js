@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <div className="text-center mb-4">
       <h5 style={{ textAlign: "center", padding: "3rem" }}>
-        Students Attendance Sekolah Tinggi Teknologi Informatika Sony Sugema
+        Jodhpur Institute of Engineering and Technology
       </h5>
       <Link to="/add-student">
         <div className="col-4">
